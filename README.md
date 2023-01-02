@@ -1,2 +1,2 @@
-# Calculator_NetBeans
+# Calculator NetBeans
 Calculator API using NetBeans
